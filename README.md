@@ -1,6 +1,8 @@
 # AI Squat Trainer
 
 ==================
+## 🎥 Demo
+
 
 > Your personal AI-powered fitness coach that counts your squats and corrects your form in real-time, right from your webcam.
 
