@@ -2,7 +2,7 @@
 
 ==================
 ## 🎥 Demo
-
+WhatsApp Video 2026-01-20 at 11.36.47 PM.mp4 (CLICK HERE)
 
 > Your personal AI-powered fitness coach that counts your squats and corrects your form in real-time, right from your webcam.
 
